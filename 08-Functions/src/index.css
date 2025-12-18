@@ -1,0 +1,21 @@
+button{
+  margin: 5px;
+}
+input{
+  display: block;
+  margin: 5px;
+  padding: 10px;
+  width: 400px;
+}
+
+.box{
+  background-color: aqua;
+  margin-right: 700px;
+  height: 300px;
+}
+
+.page{
+  height: 100vh;
+  width: 100%;
+  background-color: red;
+}

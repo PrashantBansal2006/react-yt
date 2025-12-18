@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: system-ui;
+}
+
+.parent{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+button{
+  padding: 10px 5px;
+  background-color: rgb(42, 42, 42);
+  color: white;
+  border-radius: 5px;
+  margin: 10px 5px;
+  border: none;
+}
+
+h1{
+  font-size: 80px;
+}

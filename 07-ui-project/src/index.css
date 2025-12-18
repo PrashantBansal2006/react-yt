@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+#right::-webkit-scrollbar{
+   display: none;
+}
+
+#right{
+    scroll-snap-type: x mandatory;
+}
+.rightcard{
+    scroll-snap-align: start;
+}
+
